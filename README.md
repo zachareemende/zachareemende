@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zachareemende
 - 👀 My hobbies are skateboarding, computers and programming
-- 🌱 I’m currently learning frontend development
 - 📫 You can reach me at zachareeriley@gmail.com
 
 <!---
